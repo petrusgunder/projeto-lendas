@@ -290,6 +290,10 @@ header {
         height: auto;
     }
 
+       .o-projeto{
+              padding: 20px;
+       }
+       
     .equipe ul li {
         font-size: 15px;
     }
