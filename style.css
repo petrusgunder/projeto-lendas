@@ -284,7 +284,7 @@ header {
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 1000px) {
     .o-projeto img {
         width: 400px;
         height: auto;
